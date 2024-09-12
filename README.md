@@ -14,8 +14,8 @@ In the project directory, you can run:
 
 ## Technologies Used
 
-Frontend: React.js, HTML5 Canvas (used to draw graphics)
-Backend: Node.js, WebSocket (ws library)
+- Frontend: React.js, HTML5 Canvas (used to draw graphics)
+- Backend: Node.js, WebSocket (ws library)
 
 ## Installation
 
