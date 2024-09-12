@@ -23,14 +23,14 @@ Follow these steps to install and run the project:
 
 1.  Clone this repository to your local machine:
 
-```js
+```bash
 git clone https://github.com/hardy07/collaborative-whiteboard.git
 cd collaborative-whiteboard
 ```
 
 2. Install Dependencies: Install the required npm packages for both frontend and backend
 
-```js
+```bash
 npm install
 
 cd server
@@ -39,13 +39,13 @@ npm install
 
 3. Run WebSocket Server
 
-```js
+```bash
 node server.js
 ```
 
 4. Run the React Application
 
-```js
+```bash
 npm start
 ```
 
