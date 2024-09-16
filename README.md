@@ -32,9 +32,6 @@ cd collaborative-whiteboard
 
 ```bash
 npm install
-
-cd server
-npm install
 ```
 
 3. Run WebSocket Server
